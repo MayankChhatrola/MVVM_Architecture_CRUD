@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Architecture CRUD</string>
+    <string name="add_user">Add User</string>
+    <string name="view_all_users">View All Users</string>
+    <string name="edit_user">Edit User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="save_changes">Save Changes</string>
+</resources>
